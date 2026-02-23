@@ -1,1 +1,1 @@
-# Basic-Learning-Algorithms-in-ML-coded-using-NumPy.
+# Basic-Regression-Algorithms-in-ML-coded-using-NumPy
